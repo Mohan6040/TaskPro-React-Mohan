@@ -24,7 +24,7 @@ A beautiful and responsive task management application built with React, TypeScr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-tracker.git
+   git clone https://github.com/Mohan6040/TaskPro-React-Mohan.git
    ```
 
 2. Navigate to the project directory:
