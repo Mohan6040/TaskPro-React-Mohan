@@ -70,7 +70,11 @@ Here are some screenshots of the Task Tracker application:
 
 
 6. **Dark Mode** 🌙
-   ![Dark Mode](./screenshots/dark-mode.png)
+
+![Screenshot 2024-12-29 145816](https://github.com/user-attachments/assets/f53cb004-b086-466c-a293-5e85f08594da)
+
+![Screenshot 2024-12-29 150010](https://github.com/user-attachments/assets/ca052878-9beb-4cb9-ab88-01d8e50894e2)
+
 
 
 
