@@ -61,12 +61,13 @@ Here are some screenshots of the Task Tracker application:
   ![Screenshot 2024-12-29 145743](https://github.com/user-attachments/assets/2a8b2c07-6239-40bf-863f-7279c8be7eb4)
 
 3. **Task List** 📋
-   ![Task List](./screenshots/task-list.png)
 
-4. **Task Filtering** 🔄
+![Screenshot 2024-12-29 145834](https://github.com/user-attachments/assets/ef42c993-0426-4189-8216-0e2ee3690f0a)
+
+5. **Task Filtering** 🔄
    ![Task Filtering](./screenshots/task-filtering.png)
 
-5. **Dark Mode** 🌙
+6. **Dark Mode** 🌙
    ![Dark Mode](./screenshots/dark-mode.png)
 
 
