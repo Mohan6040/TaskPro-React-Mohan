@@ -2,6 +2,13 @@
 
 A beautiful and responsive task management application built with React, TypeScript, and Tailwind CSS.
 
+
+## Demo
+
+(https://taskpro496.netlify.app)
+
+
+
 ## Features
 
 - ✨ Modern and intuitive UI design
@@ -24,7 +31,7 @@ A beautiful and responsive task management application built with React, TypeScr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-tracker.git
+   git clone https://github.com/Mohan6040/TaskPro-React-Mohan.git
    ```
 
 2. Navigate to the project directory:
@@ -43,6 +50,33 @@ A beautiful and responsive task management application built with React, TypeScr
    ```
 
 5. Open your browser and visit `http://localhost:5173`
+
+
+## Screenshots
+
+Here are some screenshots of the Task Tracker application:
+
+1. **Login Screen** ✨
+   
+  ![Screenshot 2024-12-29 145743](https://github.com/user-attachments/assets/2a8b2c07-6239-40bf-863f-7279c8be7eb4)
+
+3. **Task List** 📋
+
+![Screenshot 2024-12-29 145834](https://github.com/user-attachments/assets/ef42c993-0426-4189-8216-0e2ee3690f0a)
+
+5. **Task Filtering** 🔄
+
+  ![Screenshot 2024-12-29 145932](https://github.com/user-attachments/assets/2584018e-434b-48ff-8976-7328cdc4f2cc)
+
+
+6. **Dark Mode** 🌙
+
+![Screenshot 2024-12-29 145816](https://github.com/user-attachments/assets/f53cb004-b086-466c-a293-5e85f08594da)
+
+![Screenshot 2024-12-29 150010](https://github.com/user-attachments/assets/ca052878-9beb-4cb9-ab88-01d8e50894e2)
+
+
+
 
 ### Demo Credentials
 
