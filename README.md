@@ -1,3 +1,6 @@
+Here’s the complete README file for your GitHub repository:
+
+```markdown
 # Task Tracker Application
 
 A beautiful and responsive task management application built with React, TypeScript, and Tailwind CSS.
@@ -12,6 +15,22 @@ A beautiful and responsive task management application built with React, TypeScr
 - 🗃️ Local storage persistence
 - 🎯 Task filtering (All, Pending, Completed)
 - ⚡ Fast and smooth animations
+
+## Screenshots
+
+Here are some screenshots of the Task Tracker application:
+
+1. **Login Screen**
+   ![Login Screen](./screenshots/login.png)
+
+2. **Task List**
+   ![Task List](./screenshots/task-list.png)
+
+3. **Task Filtering**
+   ![Task Filtering](./screenshots/task-filtering.png)
+
+4. **Dark Mode**
+   ![Dark Mode](./screenshots/dark-mode.png)
 
 ## Getting Started
 
@@ -108,3 +127,6 @@ We use Zustand for state management because:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+```
+
+This README is ready to be used for your GitHub project. You can replace the screenshot image paths with the correct ones if needed. Make sure to upload the images to a `screenshots` folder in your repository if you're linking to them.
