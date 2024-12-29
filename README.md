@@ -5,7 +5,7 @@ A beautiful and responsive task management application built with React, TypeScr
 
 ## Demo
 
-![Demo of Task Tracker Application](https://taskpro496.netlify.app)
+(https://taskpro496.netlify.app)
 
 
 
