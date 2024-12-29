@@ -57,7 +57,7 @@ A beautiful and responsive task management application built with React, TypeScr
 Here are some screenshots of the Task Tracker application:
 
 1. **Login Screen** ✨
-   ![Login Screen](./screenshots/login.png)
+  ![Screenshot 2024-12-29 145743](https://github.com/user-attachments/assets/2a8b2c07-6239-40bf-863f-7279c8be7eb4)
 
 2. **Task List** 📋
    ![Task List](./screenshots/task-list.png)
